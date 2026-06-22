@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="iProcess/iProcess.vcxproj" Id="7bd6e988-7fe7-4b80-bdc8-2caa97f7cb28" />
+</Solution>
