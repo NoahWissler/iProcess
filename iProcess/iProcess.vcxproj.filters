@@ -30,6 +30,9 @@
     <ClCompile Include="yaml_parser.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="iProcess_SLP.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="yaml_parser.h">
@@ -42,6 +45,9 @@
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="irsdk_defines.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="iProcess_SLP.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

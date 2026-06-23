@@ -145,6 +145,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="iProcess_SLP.cpp" />
     <ClCompile Include="irsdk_client.cpp" />
     <ClCompile Include="irsdk_diskclient.cpp" />
     <ClCompile Include="irsdk_utils.cpp" />
@@ -152,6 +153,7 @@
     <ClCompile Include="yaml_parser.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="iProcess_SLP.h" />
     <ClInclude Include="irsdk_client.h" />
     <ClInclude Include="irsdk_defines.h" />
     <ClInclude Include="irsdk_diskclient.h" />
