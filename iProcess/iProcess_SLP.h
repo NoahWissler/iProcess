@@ -1,6 +1,7 @@
 #pragma once
 
 struct SLP_data {
+	int Gear;
 	int RPM;
 	int Lap;
 	float LapCurrentLapTime;
