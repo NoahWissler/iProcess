@@ -1,0 +1,7 @@
+# SLP optimal upshift RPM per gear (gear that is being left, i.e. gear before the shift)
+# Format: gear<N>=<RPM>
+gear2=7200
+gear3=7500
+gear4=7500
+gear5=7500
+gear6=7500
